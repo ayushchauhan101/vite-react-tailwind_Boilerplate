@@ -1,0 +1,11 @@
+# vite-react-tailwind_Boilerplate
+A simple boilerplate/skeleton built on vite + tailwindcss + react
+
+
+This is a simple and barebone boilerplate with react and tailwind on vite.
+Built to reduce time needed in initializing and installing all of the packages again and again.
+
+Git repo -link-
+To download and run locally.
+
+This is the simplest application possible and only essential files are kept to be simple enough for beginners.
